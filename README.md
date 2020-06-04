@@ -24,4 +24,4 @@ Things you may want to cover:
 * ...
 
 start
-修正
+reset
